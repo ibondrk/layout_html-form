@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,WACE,gBACF,CAcA,sCACE,eACF","file":"style.9c98e48c.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n.formField {\n  padding: 0 0 10px;\n}\n\n.registration {\n  margin-top: 20px;\n}\n\n.facts {\n  margin-top: 20px;\n}\n\n.addInfo {\n  margin-top: 20px;\n}\n\n.button {\n  margin-top: 20px;\n}\n"]}
