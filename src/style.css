@@ -3,15 +3,7 @@
   padding: 0 0 10px;
 }
 
-/* form {
-  margin: ;
-} */
-
-.box {
-  margin: 1px 0 20px;
-}
-
-/* .registration {
+.registration {
   margin-top: 20px;
 }
 
@@ -20,5 +12,9 @@
 }
 
 .addInfo {
-  margin: 1 20px;
-} */
+  margin-top: 20px;
+}
+
+.button {
+  margin-top: 20px;
+}
